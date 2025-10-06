@@ -9,7 +9,7 @@ export default function Home() {
       <section className="hero">
         <h1 className="title">¡Cumple de <span className="rainbow-text">DYLAN</span> en modo Survival! 🧱⛏️</h1>
         <p className="subtitle">
-          Únete a nuestra la aventura de mis <span className="rainbow-text">8 AÑOS</span> en el bioma del festejo. Trae tu mejor skin y diviertete por montones.
+          Únete a la aventura de mis <span className="rainbow-text">8 AÑOS</span> en el bioma del festejo. Trae tu mejor skin y diviertete por montones.
         </p>
         <div className="cta-row">
           <a href="#detalles">
