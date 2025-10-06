@@ -10,7 +10,6 @@ export default function App() {
         <Link to="/" className="logo">CUMPLE<span>CRAFT</span></Link>
         <nav className="nav">
           <Link to="/">Inicio</Link>
-          <Link to="/rsvp">Confirmar asistencia</Link>
 
         </nav>
       </header>
